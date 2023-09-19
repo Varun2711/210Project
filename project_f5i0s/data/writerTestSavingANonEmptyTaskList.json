@@ -1,0 +1,15 @@
+{
+    "name": "My ToDo List",
+    "tasks": [
+        {
+            "name": "Task 1",
+            "objective": "do something",
+            "status": true
+        },
+        {
+            "name": "Task 2",
+            "objective": "do something else",
+            "status": false
+        }
+    ]
+}
